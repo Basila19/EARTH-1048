@@ -1,6 +1,6 @@
  Earth-616 • Spotify • DOOMSDAY PROTOCOL
 
-Campaign HQ site: https://sites.google.com/view/earth616-spotify-hq
+Campaign HQ site: https://github.com/Basila19/EARTH-1048/edit/main/README.md
 
 ## Roles today (Day 1)
 | Role | Name |
